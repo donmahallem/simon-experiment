@@ -1,0 +1,34 @@
+{
+    "name": "simon-experiment",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "build": "node_modules/.bin/tsc --sourceMap --outDir ./build/",
+        "build:webpack": "node_modules/.bin/webpack",
+        "webpack:live": "webpack-dev-server --open"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://www.github.com/DonMahallem/simon-experiment"
+    },
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "@types/pixi.js": "^4.5.1",
+        "brfs": "^1.4.3",
+        "copy-webpack-plugin": "^4.0.1",
+        "file-loader": "^0.11.2",
+        "html-webpack-plugin": "^2.29.0",
+        "source-map-loader": "^0.2.1",
+        "transform-loader": "^0.2.4",
+        "ts-loader": "^2.2.2",
+        "typescript": "^2.4.1",
+        "webpack-dev-server": "^2.5.0",
+        "webpack": "^2.6.1"
+    },
+    "dependencies": {
+        "pixi.js": "^4.5.3"
+    }
+}
