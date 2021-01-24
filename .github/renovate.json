@@ -20,5 +20,6 @@
             "automerge": true,
             "rangeStrategy": "replace"
         }
-    ]
+    ],
+    "requiredStatusChecks":null
 }
