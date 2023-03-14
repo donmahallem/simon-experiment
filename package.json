@@ -29,6 +29,6 @@
         "webpack": "5.76.1"
     },
     "dependencies": {
-        "pixi.js": "^7.1.4"
+        "pixi.js": "^7.2.0"
     }
 }
