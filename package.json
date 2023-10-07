@@ -23,7 +23,7 @@
         "html-webpack-plugin": "5.5.3",
         "source-map-loader": "4.0.1",
         "transform-loader": "0.2.4",
-        "ts-loader": "9.4.4",
+        "ts-loader": "9.5.0",
         "typescript": "5.2.2",
         "webpack-dev-server": "4.15.1",
         "webpack": "5.88.2"
