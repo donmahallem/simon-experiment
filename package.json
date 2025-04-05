@@ -24,7 +24,7 @@
         "source-map-loader": "5.0.0",
         "transform-loader": "0.2.4",
         "ts-loader": "9.5.2",
-        "typescript": "5.8.2",
+        "typescript": "5.8.3",
         "webpack-dev-server": "5.2.1",
         "webpack": "5.98.0"
     },
